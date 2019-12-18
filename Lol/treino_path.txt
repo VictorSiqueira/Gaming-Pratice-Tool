@@ -1,0 +1,45 @@
+///////////////// Digitacao
+- Participantes: 1
+- Tempo: 5min
+- Descricao: Voce ira ate o site keybr e ira tentar chegar ate o final das letras em foco no menor tempo possivel, tentando manter os erros em menos de 20
+- Objetivo: melhorar a digitacao do player em velocidade e qualidade para passar instrucoes a equipe de forma rapida e eficiente, e tambem melhorar a destreza da mao que conduz o teclado
+
+///////////////// Click point
+- Participantes: 1
+- Tempo: 5min
+- Descricao:
+entrar no site aimbooster no modo de treino de speed, configure os alvos a sua prefencia, tanto em velocidade quanto em tamanho do alvo e jogue durante 5 min, é importante tambem colocar uma quantidade alta de vidas restantes para que voce possa realmente ter 5 min de treino. Voce tem como meta manter 80% de precisao/acerto no final. Uma outra opcao é utilizar o game Osu! e jogar o uma musica ou duas no nivel medio e ambas obter B 
+
+- Objetivo: Melhorar o reflexo visual e a memoria muscular da mao que conduz o mouse, para minimizar os "missclicks"
+
+///////////// 10min de x1
+- Participantes: 2
+- Tempo: 10min
+- Descricao: Nesse modo voce e um amigo/bot, se enfretam durante 10min, independente da lane, o importante é que estejam na mesma. Ambos tem como objetivo alcancar 100 de farm no limite de 10min, ou chegar mais proximo disso. Ambos sao livres para abater o adversario, porem isso nao finaliza o "x1", na verdade devem encarar isso como um "deny" de farm para o adversario
+- Obejtivo: Esse treino é focado na lane phase, para voce melhore seu farm e sua agressividade ao adversario
+
+///////////// Kitting/Orb Walk (Arauto)
+- Participantes: 1-2
+- Tempo: 10min
+- Descricao: Voce deve ir no modo treino, desabilitar a vulnerabilidade de torres e acelerar o maximo de tempo possivel ate o momento em que o arauto nasce. Neste momento entao comeca seu treino. Voce ira kittar o arauto, ele segue durante bastante tempo voce, porem ele reseta entao haverao 2 momento com ele. No primeiro momento voce deve conseguir manter distancia dele e entregar o maximo de dano possivel a ele, e reduzir o maximo de dano recebido, pois quanto melhor seu kitting, menos dano recebe, isso tudo controlando o arauto para que ele nao resete. No segundo momento é quando ele perde o target em voce, voce deve conseguir encurtar o maximo de espaco possivel e de preferencia combar para "finalizar", ou seja, dar um burst na tentativa de fuga do adversario. Voce devera realizar esse kitting ate o baron nascer. Caso tome muito dano, na ferramenta de treino acione a recuperacao de vida.
+- Objetivo: Melhorar o kitting/orb walk e conseguir manter a distancia correta do adversario 
+
+//////////// How to Jungle
+- Participantes: 1
+- Tempo: 10min 
+- Descricao: Voce devera escolher um campeao para ir na jungle, devera a cada 2 campos gankar uma lane do seu time, tirando a pressao adversaria, deve sempre estar com a vida acima 75% para que nunca faca um gank que lhe exponha. É indiferente o path que deseja realizar pode se comecar por qualquer campo e gankar qualquer lane. O gank é apenas limpar a wave corrente, caso chegue uma wave no momento que voce estiver limpando uma, voce deve deixa-la la. Caso todas as lanes estejam puxadas, voce deve considerar pressao, uma vez que tenha pressao, deve fazer um onjetivo neutro, que contara como gank. A meta é alcancar 5 ganks em 10min, limpando o maximo de campos possiveis voltando a base com no minimo 1k gold.
+Caso queira deixar mais desafiador, adicione bots a vontade.
+- Objetivo:fazer o player entender qual é o path mais confortavel para ele, e sempre o manter ativo no game como jungler, fazendo-o sempre gankar de forma eficiente.
+
+//////////// How to Carry (5 bots)
+- Participantes: 6
+- Tempo: 26min-30min
+- Descricao:Nesse modo, voce deve colocar 5 bots no nivel mais alto e de preferencia que tenham um forte controle de grupo, por exemplo: Leona, Morgana, Galio, Zyra etc. Voce deve escolher a lane que lhe convier, é indiferente, o importante é voce conseguir farmar e nao morrer, e sempre que possivel gankar ou rotacionar para tirar pressao das lanes que estao vazias, voce pode usar tp ou ir andando, ou ate mesmo uma ult (ex.:ryze). Voce deve segurar o maximo de torres possiveis, obter os objetivos neutros e achar a forma mais rapida de finalizar o game.
+Logico que se estiver muito facil, voce pode substituir alguns bots por players, ja que nao temos bots avancados ainda no game
+- Objetivo: Esse treino é focado em treinar o famoso "1v9 de cada dia" fazendo voce conseguir encurtar e acelerar o jogo ao maximo a seu favor, mesmo que seu time nao seja capaz de jogar de forma eficiente
+
+//////////// Combo Training
+- Participantes: 1-2
+- Tempo: Ilimitado
+- Descricao: Voce e um amigo/boneco de treino, vao ir no modo treino do jogo com os  champions que desejam treinar os combos/resets, colocar mana e cooldown ilimitados (caso tenha um amigo colocque recuperacao de vida). Ficaram repetindo sequencias de combos ate realmente sentirem que estao fazendo de forma eficiente, aproveitando 100% do champion. Caso queira tentar de forma mais dificil, peca ao colega que de alguma forma tente cancelar seu combo, por exemplo pegando um champ que tenha CC ou utilize zhonyas.
+- Objetivo: conseguir extrair o maximo da mecanica de cada campeao que deseja utilizar in-game, fortalecer mais o desenvolvimente individual do game para que possa carregar nos jogos. Posteriormente pode utilizar um dos outros treinos para dar complemento a esse

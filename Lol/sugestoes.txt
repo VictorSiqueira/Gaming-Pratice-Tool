@@ -1,0 +1,8 @@
+- Treino de visao
+- Treino de pickoff/invade
+- Treino de comunicacao
+- Treino focado em 5v5/teamfight/roaming
+- Aplicacao de mentalidade de 5v5 na soloq
+- Supervisao de treino
+	talvez colocando 5 caras mais um supervisor no treino, daria para cada dupla ir numa lane e o supervisor
+junto, ele participaria de forma aleatoria com os 5 e no final anotaria os dados de cada um, tambem manteria a ordem na sala de treino, tiraria duvidas dos players e incentivaria a "troca de figurinha" (conversa entre os players para apontar eficiencias e deficiencias)

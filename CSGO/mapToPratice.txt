@@ -1,0 +1,8 @@
+sv_cheats 1 
+sv_grenade_trajectory 1 
+sv_infinite_ammo 1
+sv_showimpacts 1
+mp_freezetime 1 
+mp_roundtime_defuse 10000 
+mp_startmoney 16000 
+Bind t noclip

@@ -1,0 +1,43 @@
+////// FUNCIONALIDADES /////////////////
+- Usuario escolhe qual tipo de game ele tem preferencia por deixar default, como um sistema de abas podendo mudar sempre
+
+- No menu ter a opcao de Dica do dia, um conjunto de dicas referentes ao game/categoria selecionada que aparecerao 1x ao dia, talvez com algum video especifico relacionado a dica
+
+- Ter aba e-sports para acompanhar a transmissao dos principais campeonatos, seja por video ou text (tipo o uol futebol), notifications seriam mandados para quando tiver jogo do time de preferencia 
+
+- Ter aba de minigames para treino, como  click point, questionario relacionado ao game/categoria, spray, smiterino, farm simulator, todos com rank entre os usuarios para comparacao, se possivel com comparacao de nivelamento no game (ex.: 180 pontos, prata)
+
+- Ter uma aba de path notes, com listagem de videos de opniao relevantes
+
+- Ter aba de inscricoes campeonatos amadores/profisionais
+
+- Ter aba de peneiras para times profissionais, academy e amadores
+
+- Integracao com as apis dos games para pegar nivelamento do player e historico de partidas
+
+- Aba de ofertas com link comissionado de produtos gamer(pegar track de click)
+
+- Aba para teste de ping (apenas quando conectado ao wifi)
+
+- Aba para avaliacao de valor de conta aproximado e principais sites de venda de contas
+
+- Enciclopedia de itens, personagens e mapas
+
+- Sistema de chat e agenda para equipes (pago?)
+
+- Comunidade por time, talvez ate algo tipo um socio torcedor (ref Fnatic)
+
+- mobalytics interno para todos os games
+
+- funcionalidade de contratacao de coach/personal trainer para o player (gamer sensei)
+
+////////// RENTABILIDADE /////////////
+- Links com comissao
+- Links de promocoes exclusivas quando obter parcerias
+- Assinatura do app para alguma parte exlusiva do app, algo em torno de 5 reais, talvez para as vagas de times profissionais e/ou academy e competicoes maiores
+- Ads no rodape do app, que saem quando tem assinatura ou quando paga uma taxa de remocao de ad(tipo 3 meses sem ad, mas algo barato tambem)
+- Sistema de pontuacao que possibilita a troca por assinatura
+
+//////// IDENTIDADE VISUAL ////////
+- Nome temporario: Road to Pro
+- 

@@ -1,0 +1,46 @@
+#DicasCSGO
+
+- Nunca jogue competitivo sem ter microfone, caso nao tenha um, existem aplicativos que permitem usar o celular como microfone
+
+- Jogue em mapas que voce conhece, assim sabera se locomover pelo mapa e indicar posicionamento de oponentes
+
+- É muito importante saber passar as localidades dos adversarios a partir de "apelido" da area do mapa (Ex. fundo, bunker, areia, cabecinha)
+
+- Durante uma partida comunique apenas o essencial, nao perca tempo falando sobre a gameplay do companheiro, foque em ganhar!
+
+- Coisas essenciais para informar a equipe: avistar o adversario e quantificar ele, se nao avistar o adversario, vai fazer uso de algum utilitario, marcacao de alguma posicao, se tem vida ou nao
+
+- Alem da comunicao, outra coisa muito importante é a economia, nao saia gastando um monte de dinheiro com utilitario se voce nao vai usar ou vai se matar a toa, lembre que precisar fazer eco é praticamente entregar um round de graca
+
+- Se voce esta de CT, indique se seu posicionamento ta sendo comprometido pelo adversario, recue e espere o time chegar sem morrer, ganhe tempo
+
+- Se voce esta de TR, nao rushe diretamente, va com calma e ganhe informacao do que esta a frente, voce vivo é mais util que morto
+
+- Uma forma eficiente de obter informacao do que esta a frente sem se comprometer é fazer o uso de Strafe, movimentacao lateral atras de um obstaculo, voce olha e volta e informa o que viu
+
+- Sempre pense que pode ter um adversario a sua frente, isso te ajuda a ter o costume de ter cuidado e assim diminui a chances de erros por movimentacao ruim
+
+- Quando for abrir um bomb site ou uma area, se voce tiver um aliado a sua frente, nao espere, va junto, ir separado é muito grande a chance dos dois morrerem em sequencia
+
+- Evite ao maximo deixar o bomb site sozinho, voce acaba abrindo uma janela muito grande para plant e retake adversario
+
+- Se voce tiver a necessidade de sair do bomb site, tente pegar o maximo de informacao possivel, assim voce nao estara caindo em um bait adversario
+
+- Nao fique de gracinha fazendo barulho para o companheiro ou bangando a toa, isso tira a concentracao do time e provavelmente ira tiltar
+
+- Se estiver de CT sempre tente comprar defuse kit, ele chega ser mais importante que granadas
+
+- Quando fazer Eco, busque forcar um rush para tirar armas adversarias, isso pode surpreender o adversario e na pior das hipoteses so vai terminar o round mais cedo
+
+- Quando estiver de TR nao se esqueca de fazer uma boa estrategia "after planted", garantir a explosao é tao importante quanto plantar
+
+- Nunca busque fazer highlight, jogue o simples, highlight é consequencia de um jogo bem jogado
+
+- Quando for avancar em dupla, garanta que quando for jogar a bang vc nao cegue o parceiro, entao sempre jogue nas costas do companheiro, ou por cima da passagem dele ou informe para que ele desvie
+
+- Jogando de TR, lembre-se que voce tem mais de 1 minuto para plantar a bomba, entao nao precisa de rush o tempo todo, tente obter info dos bomb site, assim o time tomara a melhor decisao para o plant
+
+- Sempre de cover para quem esta plantando ou defusando o bomb, ele fica muito exposto nesse momento, as vezes uma smoke pode ser uma boa pedida
+
+- Se voce nao perdeu a arma do round anterior, tente nao comprar outra, se for muito necessario, tente dropar para algum aliado, assim ajudando a controlar a economia
+
